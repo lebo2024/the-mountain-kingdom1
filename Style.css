@@ -84,7 +84,7 @@ button:hover{
 }
 
     body{
-        background-color: #ffffff;
+        background-color: transparent;
         color:#333333;
         font-family: arial,sans-serif;
         line-height: 1.6;
@@ -213,7 +213,8 @@ button:hover{
 .info-box p { margin-top: .8rem; }
 
 body{
-    background-image: linear-gradient( rgba( 255,255,255,0.65), rgba(255,255,255,0.65)), url("../phothos/Katse_Dam\ \(1\).jpg");
+    background-image: linear-gradient( rgba( 255,255,255,0.65), rgba(255,255,255,0.65)),
+     url("../phothos/Katse_Dam (1).jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
